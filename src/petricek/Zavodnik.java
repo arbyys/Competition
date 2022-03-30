@@ -34,7 +34,7 @@ public class Zavodnik
         return name + " " + surname;
     }
 
-    
+
 
     // gettery, settery
 
