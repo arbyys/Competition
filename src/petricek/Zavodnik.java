@@ -2,6 +2,8 @@ package petricek;
 
 public class Zavodnik
 {
+    // property
+
     private String name;
     private String surname;
     private String dateOfBirth;
